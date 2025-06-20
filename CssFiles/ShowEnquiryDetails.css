@@ -1,0 +1,146 @@
+﻿.EnquiryDetailsContent {
+    
+    padding: 25px 26px;
+   
+}
+.EnquiryDetailsContainer {
+    
+    margin: 0px 5px;
+    margin-bottom: 35px;
+    border-radius: 11px;
+    padding: 20px;
+    height: 500px;
+    overflow-y: auto;
+    overflow-x: auto;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.EnquiryIdContainer {
+    width: 100%;
+    
+    background-color: mediumpurple;
+    margin-top: -20px;
+    margin-left: -20px;
+    padding: 20px;
+}
+.EnquiryIdLabel{
+    font-weight:800;
+    font-size:17px;
+}
+.ShowProductContainers {
+    border-radius: 7px;
+    background-color: #CBC3E3;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 200px;
+    margin: 15px;
+    padding: 15px;
+}
+.ButtonsContainer {
+    display: flex;
+    flex-wrap: wrap;
+}
+.FollowUp_Btn {
+    transition: .3s;
+    margin: 8px;
+    width: 120px;
+    height: 45px;
+    background-color: mediumpurple;
+    border: none;
+    outline: none;
+    border-radius: 40px;
+    box-shadow: 0 0 10px rgba(0,0,0,.1);
+    cursor: pointer;
+    font-size: 14px;
+    color: black;
+    font-weight: 500;
+}
+.Edit_Btn {
+    transition: .3s;
+    margin: 8px;
+    width: 120px;
+    height: 45px;
+    background-color: mediumpurple;
+    border: none;
+    outline: none;
+    border-radius: 40px;
+    box-shadow: 0 0 10px rgba(0,0,0,.1);
+    cursor: pointer;
+    font-size: 14px;
+    color: black;
+    font-weight: 500;
+}
+.OrderConvert_Btn {
+    transition: .3s;
+    margin: 8px;
+    width: 120px;
+    height: 45px;
+    background-color: mediumpurple;
+    border: none;
+    outline: none;
+    border-radius: 40px;
+    box-shadow: 0 0 10px rgba(0,0,0,.1);
+    cursor: pointer;
+    font-size: 14px;
+    color: black;
+    font-weight: 500;
+}
+.EnquiryClosed_Btn {
+    transition: .3s;
+    margin: 8px;
+    width: 120px;
+    height: 45px;
+    background-color: mediumpurple;
+    border: none;
+    outline: none;
+    border-radius: 40px;
+    box-shadow: 0 0 10px rgba(0,0,0,.1);
+    cursor: pointer;
+    font-size: 14px;
+    color: black;
+    font-weight: 500;
+}
+.Back_Btn {
+    transition: .3s;
+    margin: 8px;
+    width: 120px;
+    height: 45px;
+    background-color: mediumpurple;
+    border: none;
+    outline: none;
+    border-radius: 40px;
+    box-shadow: 0 0 10px rgba(0,0,0,.1);
+    cursor: pointer;
+    font-size: 14px;
+    color: black;
+    font-weight: 500;
+}
+
+.FollowUp_Btn:hover {
+    
+    background-color: #862e94;
+    transform: scale(1.03);
+}
+
+.Edit_Btn:hover {
+    
+    background-color: #862e94;
+    transform: scale(1.03);
+}
+
+.OrderConvert_Btn:hover {
+   
+    background-color: #862e94;
+    transform: scale(1.03);
+}
+
+.EnquiryClosed_Btn:hover {
+    
+    background-color: #862e94;
+    transform: scale(1.03);
+}
+
+.Back_Btn:hover {
+   
+    background-color: #862e94;
+    transform: scale(1.03);
+}
+

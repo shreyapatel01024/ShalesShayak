@@ -1,0 +1,107 @@
+﻿.ShowEnquiryTableContent {
+        padding: 25px 26px;
+        display: flex;
+        flex-direction: column;
+}
+.showEnquiryTable {
+    width: 100%;
+    transition: 0.5s;
+    border-collapse: collapse;
+    
+    
+    
+}
+
+.showEnquiryTableContainer {
+    margin: 0px 5px;
+    margin-bottom: 35px;
+    border-radius: 11px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    height: 500px;
+    overflow-y: auto;
+    overflow-x: auto;
+}
+.showEnquiryTable thead th {
+    position: sticky;
+    top: 0;
+    overflow-x: auto;
+}
+.showEnquiryTable tbody {
+    
+}
+    .showEnquiryTable th, .showEnquiryTable td {
+        padding: 8px;
+       height:40px;
+       
+        text-align: left;
+    }
+
+    .showEnquiryTable th {
+        background-color: mediumpurple;
+        color: black;
+    }
+
+.EnquiId {
+    text-decoration: none;
+    color: black;
+}
+.showEnquiryTable tr:nth-child(even) {
+    background-color: #f4f6f8;
+}
+
+.showEnquiryTable tr:hover {
+    
+    background-color: #9551a6;
+    cursor: pointer;
+   
+   
+}
+.SearchandStatusSelector{
+    display:flex;
+    justify-content:space-between
+}
+.search-bar-box-1 {
+    position: relative;
+    display: flex;
+    align-items: center;
+    height: 40px;
+    width:300px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border: solid rgba(255,255,255,.2);
+    border-radius: 50px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
+    .search-bar-box-1 i {
+        margin-left: 20px;
+    }
+
+    .search-bar-box-1 input {
+        margin-left: 20px;
+        width: 100%;
+        border: none;
+        outline: none;
+        background: transparent;
+        font-size: 16px;
+    }
+StatusLabel{
+    margin-top:3px;
+}
+.EnquiryStatusSelector {
+    display: flex;
+    gap:10px;
+    align-content:center;
+    margin-top:20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+.DropDownList1 {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    background:white;
+    border:none;
+    
+    border-radius:20px;
+}
+
+

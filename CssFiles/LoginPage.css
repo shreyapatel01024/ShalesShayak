@@ -1,0 +1,179 @@
+﻿.LoginContainer{
+    display:flex;
+    justify-content:center;
+    align-content:center;
+}
+.loginbox {
+    margin-top: 80px;
+    height: 350px;
+    background-color: mediumpurple;
+    color: #fff;
+    border-radius: 10px;
+    padding: 30px 40px;
+    vertical-align: middle;
+    position: relative;
+    border: 2px solid rgba(255,255,255,.2);
+    transition: 0.5s;
+}
+    
+
+.log {
+    font-size: 36px;
+    text-align: center;
+    color: rgb(255, 217,9);
+}
+.txtpass::-ms-reveal,
+.txtpass::-ms-clear{
+    display:none;
+}
+
+.inputbox {
+    position: relative;
+    
+    width: 100%;
+    height: 50px;
+    margin: 30px 0;
+    border:      solid rgba(255,255,255,.2);
+    border-radius: 20px;
+   
+}
+.inputbox:focus-within {
+   
+    transition:0.5s;
+    
+    border: solid;
+    border-color: blue;
+}
+
+    
+
+.txtemail {
+    width: 85%;
+    height: 100%;
+    background: transparent;
+    border: none;
+    outline: none;
+    font-size: 16px;
+    color: #fff;
+    margin-left: 28px;
+    
+}
+
+.txtpass {
+    
+    width: 73%;
+    height: 100%;
+    background: transparent;
+    border: none;
+    outline: none;
+    font-size: 16px;
+    color: #fff;
+    margin-left: 28px;
+}
+
+
+::placeholder {
+    color: #fff;
+    
+}
+
+.icon {
+    position: absolute;
+    left: 15px;
+    top: 30%;
+    transform: translate(-50%);
+    font-size: 20px;
+}
+
+.iconp {
+    position: absolute;
+    left:15px;
+    top: 30%;
+    transform: translate(-50%);
+    font-size: 20px;
+}
+.eyeicon {
+    position: absolute;
+    text-align:center;
+    margin-top:-37px;
+    left:86%;
+    font-size: 20px;
+    
+    cursor: pointer;
+}
+
+.btnforgot {
+    display: flex;
+    justify-content: space-between;
+    font-size: 14.5px;
+    margin: -15px 0 15px;
+    text-decoration:none;
+    color:floralwhite;
+}
+
+    .btnforgot:hover {
+        
+    }
+
+.btnsubmit {
+    margin-top:5px;
+    width: 100%;
+    height: 45px;
+    background-color: #fff;
+    border: none;
+    outline: none;
+    border-radius: 40px;
+    box-shadow: 0 0 10px rgba(0,0,0,.1);
+    cursor: pointer;
+    font-size: 16px;
+    color: #333;
+    font-weight: 600;
+}
+
+    .btnsubmit:hover {
+        transition:0.5s;
+        background-color: rgb(255,217,9);
+    }
+
+
+#Alerts{
+    margin-top:5px;
+    margin-bottom:15px;
+}
+
+.user {
+    position:absolute;
+    margin-top:35px;
+    height:auto;
+    width:300px;
+
+}
+
+
+@media (max-width:599px){
+    .user{
+        display:none;
+    }
+    .loginbox {
+        width: 250px;
+    }
+}
+@media (min-width:600px) and (max-width:926px) {
+    .user {
+        display: none;
+    }
+
+    .loginbox {
+        width: 400px;
+    }
+}
+@media (min-width:927px) and (max-width:1920px) {
+
+    .loginbox {
+        width: 700px;
+    }
+
+    .rightspace {
+        margin-left: 60%;
+    }
+}

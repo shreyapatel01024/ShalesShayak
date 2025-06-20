@@ -1,0 +1,36 @@
+C:\Users\jhasa\OneDrive\Desktop\SalesSahayak\SalesSahayak\SalesSahayak\bin\SalesSahayak.dll
+C:\Users\jhasa\OneDrive\Desktop\SalesSahayak\SalesSahayak\SalesSahayak\bin\SalesSahayak.pdb
+C:\Users\jhasa\OneDrive\Desktop\SalesSahayak\SalesSahayak\SalesSahayak\obj\Debug\SalesSahayak.dll
+C:\Users\jhasa\OneDrive\Desktop\SalesSahayak\SalesSahayak\SalesSahayak\obj\Debug\SalesSahayak.pdb
+C:\Users\jhasa\OneDrive\Desktop\SalesSahayak\SalesSahayak\SalesSahayak\obj\Debug\SalesSahayak.csproj.AssemblyReference.cache
+C:\Users\jhasa\OneDrive\Desktop\SalesSahayak\SalesSahayak\SalesSahayak\obj\Debug\SalesSahayak.csproj.CoreCompileInputs.cache
+C:\Users\jhasa\OneDrive\Desktop\SalesSahayak\SalesSahayak\bin\SalesSahayak.dll
+C:\Users\jhasa\OneDrive\Desktop\SalesSahayak\SalesSahayak\bin\SalesSahayak.pdb
+C:\Users\jhasa\OneDrive\Desktop\SalesSahayak\SalesSahayak\obj\Debug\SalesSahayak.dll
+C:\Users\jhasa\OneDrive\Desktop\SalesSahayak\SalesSahayak\obj\Debug\SalesSahayak.pdb
+C:\Users\jhasa\OneDrive\Desktop\SalesSahayak\SalesSahayak\obj\Debug\SalesSahayak.csproj.AssemblyReference.cache
+C:\Users\jhasa\OneDrive\Desktop\SalesSahayak\SalesSahayak\obj\Debug\SalesSahayak.csproj.CoreCompileInputs.cache
+C:\Users\SHIVAM JANI\Resilio Sync\SalesSahayak\SalesSahayak\bin\SalesSahayak.dll
+C:\Users\SHIVAM JANI\Resilio Sync\SalesSahayak\SalesSahayak\bin\SalesSahayak.pdb
+C:\Users\SHIVAM JANI\Resilio Sync\SalesSahayak\SalesSahayak\obj\Debug\SalesSahayak.csproj.AssemblyReference.cache
+C:\Users\SHIVAM JANI\Resilio Sync\SalesSahayak\SalesSahayak\obj\Debug\SalesSahayak.csproj.CoreCompileInputs.cache
+C:\Users\SHIVAM JANI\Resilio Sync\SalesSahayak\SalesSahayak\obj\Debug\SalesSahayak.dll
+C:\Users\SHIVAM JANI\Resilio Sync\SalesSahayak\SalesSahayak\obj\Debug\SalesSahayak.pdb
+C:\Users\jhasa\OneDrive\Desktop\SalesSahayak-For Backup\SalesSahayak\SalesSahayak\bin\SalesSahayak.dll
+C:\Users\jhasa\OneDrive\Desktop\SalesSahayak-For Backup\SalesSahayak\SalesSahayak\bin\SalesSahayak.pdb
+C:\Users\jhasa\OneDrive\Desktop\SalesSahayak-For Backup\SalesSahayak\SalesSahayak\obj\Debug\SalesSahayak.csproj.AssemblyReference.cache
+C:\Users\jhasa\OneDrive\Desktop\SalesSahayak-For Backup\SalesSahayak\SalesSahayak\obj\Debug\SalesSahayak.csproj.CoreCompileInputs.cache
+C:\Users\jhasa\OneDrive\Desktop\SalesSahayak-For Backup\SalesSahayak\SalesSahayak\obj\Debug\SalesSahayak.dll
+C:\Users\jhasa\OneDrive\Desktop\SalesSahayak-For Backup\SalesSahayak\SalesSahayak\obj\Debug\SalesSahayak.pdb
+C:\Users\SHIVAM JANI\Resilio Sync\SalesSahayak (1)\SalesSahayak\bin\SalesSahayak.dll
+C:\Users\SHIVAM JANI\Resilio Sync\SalesSahayak (1)\SalesSahayak\bin\SalesSahayak.pdb
+C:\Users\SHIVAM JANI\Resilio Sync\SalesSahayak (1)\SalesSahayak\obj\Debug\SalesSahayak.csproj.AssemblyReference.cache
+C:\Users\SHIVAM JANI\Resilio Sync\SalesSahayak (1)\SalesSahayak\obj\Debug\SalesSahayak.csproj.CoreCompileInputs.cache
+C:\Users\SHIVAM JANI\Resilio Sync\SalesSahayak (1)\SalesSahayak\obj\Debug\SalesSahayak.dll
+C:\Users\SHIVAM JANI\Resilio Sync\SalesSahayak (1)\SalesSahayak\obj\Debug\SalesSahayak.pdb
+C:\Users\jhasa\OneDrive\Desktop\Temp\SalesSahayak\SalesSahayak\bin\SalesSahayak.dll
+C:\Users\jhasa\OneDrive\Desktop\Temp\SalesSahayak\SalesSahayak\bin\SalesSahayak.pdb
+C:\Users\jhasa\OneDrive\Desktop\Temp\SalesSahayak\SalesSahayak\obj\Debug\SalesSahayak.csproj.AssemblyReference.cache
+C:\Users\jhasa\OneDrive\Desktop\Temp\SalesSahayak\SalesSahayak\obj\Debug\SalesSahayak.csproj.CoreCompileInputs.cache
+C:\Users\jhasa\OneDrive\Desktop\Temp\SalesSahayak\SalesSahayak\obj\Debug\SalesSahayak.dll
+C:\Users\jhasa\OneDrive\Desktop\Temp\SalesSahayak\SalesSahayak\obj\Debug\SalesSahayak.pdb

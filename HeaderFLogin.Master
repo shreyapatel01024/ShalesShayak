@@ -1,0 +1,96 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="HeaderFLogin.master.cs" Inherits="SalesSahayak.MasterPages.HeaderFLogin" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server" >
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SalesSahayak</title>
+    <link runat="server" rel="shortcut icon" href="Images/Favicon.jpg" type="image/x-icon"/>
+        
+    <link rel="stylesheet" type="text/css" href="CssFiles/HeaderFLogin.css" />
+    <link rel="stylesheet" type="text/css" href="CssFiles/LoginPage.css" />
+    <link rel="stylesheet" type="text/css" href="CssFiles/Welcome.css" />
+    <link rel="stylesheet" type="text/css" href="CssFiles/LoadingBar.css" />
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet' />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"/>
+
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .content {
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server" method="post">
+        <div id="Header">
+            <div id="Logo-Title" >
+    
+    <asp:Label ID="Label1" runat="server" Text="Sales Sahayak" Font-Bold="True"
+        Font-Names="Cooper Black" Font-Overline="False" Font-Underline="True" ></asp:Label>
+</div>
+            <div class="BLbuttons">
+                <asp:Button ID="HomeBtn" runat="server" Text="Home" CssClass="HomeButton" UseSubmitBehavior="false" OnClick="HomeBtn_Click" />
+                <asp:Button ID="LogInBtn" runat="server" Text="Log In" CssClass="LoginButton" UseSubmitBehavior="false" OnClick="LogInBtn_Click" />
+        </div>
+
+            </div>
+         <div id="loadingBar" class="loading-bar-container">
+    <div class="loading-bar" id="progressBar"></div>
+</div>
+
+        <div class="content">
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+       <script type="text/javascript">
+           function PasswordToggle() {
+               var x = document.getElementById("showHidePassword");
+               var y = document.getElementById("ContentPlaceHolder1_passwordText")
+               var z = document.getElementById("lockicon");
+               if (y.type == "password") {
+                   z.className = "bx bxs-lock-open-alt";
+                   y.type = "Text";
+                   x.className = "fa fa-eye-slash";
+
+               }
+               else {
+                   y.type = "password";
+                   z.className = "bx bxs-lock-alt"
+                   x.className = "fa fa-eye";
+
+               }
+           }
+           // Show loading bar when navigating between pages
+           function startLoading() {
+               document.getElementById("loadingBar").style.visibility = 'visible';
+               var progressBar = document.getElementById("progressBar");
+               progressBar.style.width = '0%';
+               var width = 0;
+               var interval = setInterval(function () {
+                   if (width >= 100) {
+                       clearInterval(interval);
+                   } else {
+                       width += 10;
+                       progressBar.style.width = width + '%';
+                   }
+               }, 300);
+           }
+
+           function stopLoading() {
+               var progressBar = document.getElementById("progressBar");
+               progressBar.style.width = '100%';
+               setTimeout(function () {
+                   document.getElementById("loadingBar").style.visibility = 'hidden';
+               }, 500);
+           }
+
+           window.addEventListener('beforeunload', startLoading);
+           window.onload = stopLoading;
+       </script>
+</body>
+</html>

@@ -1,0 +1,28 @@
+﻿
+
+.tos-container {
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+}
+
+.TermsofserviceHeader, .TermsofserviceSubHeader {
+    color: #333;
+}
+
+.TermsofserviceData {
+    line-height: 1.6;
+    color: #666;
+}
+
+.TermsofserviceHeader {
+    margin-bottom: 20px;
+}
+
+.TermsofserviceSubHeader {
+    margin-top: 20px;
+    margin-bottom: 10px;
+}

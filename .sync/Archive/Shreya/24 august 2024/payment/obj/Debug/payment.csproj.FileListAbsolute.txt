@@ -1,0 +1,6 @@
+C:\Users\shrey\OneDrive\Desktop\payment\payment\bin\payment.dll
+C:\Users\shrey\OneDrive\Desktop\payment\payment\bin\payment.pdb
+C:\Users\shrey\OneDrive\Desktop\payment\payment\obj\Debug\payment.csproj.AssemblyReference.cache
+C:\Users\shrey\OneDrive\Desktop\payment\payment\obj\Debug\payment.csproj.CoreCompileInputs.cache
+C:\Users\shrey\OneDrive\Desktop\payment\payment\obj\Debug\payment.dll
+C:\Users\shrey\OneDrive\Desktop\payment\payment\obj\Debug\payment.pdb

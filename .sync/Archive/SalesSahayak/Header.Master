@@ -1,0 +1,162 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Header.master.cs" Inherits="SalesSahayak.Header" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>SalesSahayak</title>
+    <link runat="server" rel="shortcut icon" href="Images/Favicon.jpg" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css"  href="CssFiles/Header.css" />
+    <link rel="stylesheet" type="text/css" href="CssFiles/Home.css" />
+    <link rel="stylesheet" type="text/css" href="CssFiles/Footer.css" />
+    <link rel="stylesheet" type="text/css" href="CssFiles/ContactUs.css" />
+    <link rel="stylesheet" type="text/css" href="CssFiles/About.css" />
+    <link rel="stylesheet" type="text/css" href="CssFiles/privacypolicy.css" />
+    <link rel="stylesheet" type="text/css" href="CssFiles/CookiePreferences.css" />
+    <link rel="stylesheet" type="text/css" href="CssFiles/Termsofservice.css" />
+    <link rel="stylesheet" type="text/css" href="CssFiles/ShowEnquiry.css" />
+    <link rel="stylesheet" type="text/css" href="CssFiles/ShowEnquiryDetails.css" />
+    <link rel="stylesheet" type="text/css" href="CssFiles/ShowOrders.css" />
+    <link rel="stylesheet" type="text/css" href="CssFiles/ShowCompletedOrders.css" />  
+    <link rel="stylesheet" type="text/css" href="CssFiles/ShowCustomers.css" /> 
+    <link rel="stylesheet" type="text/css" href="CssFiles/AddCustomer.css" /> 
+    <link rel="stylesheet" type="text/css" href="CssFiles/AddEnquiry.css" />
+    <link rel="stylesheet" type="text/css" href="CssFiles/Profile.css" />
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"/>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .content{
+            width:100%;
+        }
+    </style>
+</head>
+<body>
+    <form id="Form1" runat="server">
+        <div id="Header">
+            <div class="menubar">
+            <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+                <i id="menubaricon" class="fa fa-bars" style="font-size:17px"></i>
+            </a>
+            </div>
+            <a href="Home.aspx">
+            <div id="Logo-Title" >
+                
+                <asp:Label ID="Label1" runat="server" Text="Sales Sahayak" Font-Bold="True"
+                    Font-Names="Cooper Black" Font-Overline="False" Font-Underline="True" ></asp:Label>
+            </div>
+   </a>            
+            <ul id="navbar" class="navbars">
+                <li><a href="Home.aspx" class="Home" >Home</a></li>
+                <li class="dropdown"><a  class="dropbtn">Enquiry</a>
+                    <div class="dropdown-content">
+                        <a href="AddEnquiry.aspx">Add Enquiry</a>
+                        <a href="ShowEnquiry.aspx">Show Enquiries</a>
+                    </div>
+                </li>
+                <li class="dropdown"><a  class="dropbtn">Order</a>
+                    <div class="dropdown-content">
+                        <a href="Service1.aspx">Add Order</a>
+                        <a href="ShowOrders.aspx">Show Orders</a>
+                        <a href="ShowCompletedOrders.aspx">Completed Orders</a>
+                    </div>
+                </li>
+
+                <li class="dropdown"><a  class="dropbtn">Customer</a>
+                    <div class="dropdown-content">
+                        <a href="AddCustomer.aspx">Add Customer</a>
+                        <a href="ShowCustomers.aspx">Show Customers</a>
+                    </div>
+                </li>
+
+
+
+                <li><a href="Contact.aspx">Payment</a></li>
+                <li><a href="ContactUs.aspx">Contact</a></li>
+            </ul>
+            <ul  class="profile">
+                
+                <li class="dropdown">
+                    
+                    <img src="https://cdn-icons-png.flaticon.com/512/3781/3781986.png" alt="ProfileImg" class="ProfileImg" />
+                    <asp:Label ID="ProfileUserName" CssClass="ProfileUserName" runat="server"></asp:Label>
+                    
+                        <div class="dropdown-content">
+                        <div class="WelcomeTextProfileMenu">
+
+                        
+                        <asp:Label ID="Label2" CssClass="" runat="server">Welcome,</asp:Label>
+                         <asp:Label ID="ProfileMenuUserName" CssClass="ProfileMenuUserName" runat="server" Font-Bold="True"></asp:Label>
+                        </div>
+                        <a href="Profile.aspx">Profile</a>
+                        <asp:Button ID="LogoutBtn" runat="server" Text="Log out" OnClick="LogoutBtn_Click" />
+                    </div>
+                     
+    
+ </li>  
+                
+               
+            </ul>
+           
+
+
+        </div>
+
+        <div class="NavbarResponsiveMobile">
+        <ul id="navbarResponsives" class="navbar2">
+    <li><a href="Home.aspx">Home</a></li>
+    <li class="dropdown"><a class="dropbtn">Enquiry</a>
+        <div class="dropdown-content">
+            <a href="AddEnquiry.aspx">Add Enquiry</a>
+            <a href="ShowEnquiry.aspx">Show Enquiries</a>
+        </div>
+    </li>
+    <li class="dropdown"><a  class="dropbtn">Order</a>
+        <div class="dropdown-content">
+            <a href="Service1.aspx">Add Order</a>
+            <a href="ShowOrders.aspx">Show Orders</a>
+            <a href="ShowCompletedOrders.aspx">Completed Orders</a>
+        </div>
+    </li>
+
+    <li class="dropdown"><a  class="dropbtn">Customer</a>
+        <div class="dropdown-content">
+            <a href="AddCustomer.aspx">Add Customer</a>
+            <a href="Service2.aspx">Show Customers</a>
+        </div>
+    </li>
+    <li><a href="Contact.aspx">Payment</a></li>
+    <li><a href="Contact.aspx">Contact</a></li>
+</ul>
+            </div>
+
+
+<div class="Content&Footer">
+    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server"></asp:ContentPlaceHolder>
+</div>
+
+
+    </form>
+    <script type="text/javascript">
+        
+        function myFunction() {
+           
+            var y = document.getElementById("menubaricon");
+            var x = document.getElementById("navbarResponsives");
+             
+            
+            if (x.className == "navbar2") {
+                y.className = "fa fa-close";
+                x.className += "Responsives";
+                console.log(x);
+            } else {
+                y.className= "fa fa-bars"
+                x.className = "navbar2";
+                console.log(x);
+            }
+        }
+    </script>
+</body>
+</html>

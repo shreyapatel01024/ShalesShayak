@@ -1,0 +1,56 @@
+﻿.ShowCompletedOrderTableContent {
+    padding: 25px 26px;
+    display: flex;
+    flex-direction: column;
+}
+
+.showCompletedOrderTable {
+    width: 100%;
+    transition: 0.5s;
+    border-collapse: collapse;
+    overflow-x: auto;
+}
+
+.showCompletedOrderTableContainer {
+    margin: 0px 5px;
+    margin-bottom: 35px;
+    border-radius: 11px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    height: 500px;
+    overflow-y: auto;
+    overflow-x: auto;
+}
+
+.showCompletedOrderTable thead th {
+    position: sticky;
+    top: 0;
+    overflow-x: auto;
+}
+
+.showCompletedOrderTable tbody {
+}
+
+.showCompletedOrderTable th, .showCompletedOrderTable td {
+    padding: 8px;
+    height: 40px;
+    text-align: left;
+}
+
+.showCompletedOrderTable th {
+    background-color: mediumpurple;
+    color: black;
+}
+
+.CompletedOrderId {
+    text-decoration: none;
+    color: black;
+}
+
+.showCompletedOrderTable tr:nth-child(even) {
+    background-color: #f4f6f8;
+}
+
+.showCompletedOrderTable tr:hover {
+    background-color: #9551a6;
+    cursor: pointer;
+}

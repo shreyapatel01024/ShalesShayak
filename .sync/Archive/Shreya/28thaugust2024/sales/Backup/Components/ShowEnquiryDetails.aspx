@@ -1,0 +1,60 @@
+﻿<%@ Page Title="Show Enquiry Details | SalesSahayak" Language="C#" MasterPageFile="~/Footer.master" AutoEventWireup="true" CodeBehind="ShowEnquiryDetails.aspx.cs" Inherits="SalesSahayak.Components.ShowEnquiryDetails" %>
+<asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder2" runat="server">
+            
+       <div>
+              
+    <h2>Data from Access Database</h2>
+           
+         <asp:Label ID="Label10" runat="server" Text="Enquiry Id: "></asp:Label>  <asp:Label ID="Enq_Id" runat="server" Text=""></asp:Label>
+             <br />
+<asp:Label ID="Label2" runat="server" Text="Enquiry Date: "></asp:Label><asp:Label ID="Eq_Date" runat="server" Text=""></asp:Label>
+             <br />
+ <asp:Label ID="Label3" runat="server" Text="Customer ID: "></asp:Label><asp:Label ID="Cust_Id" runat="server" Text=""></asp:Label>
+             <br />
+       
+
+           <asp:Repeater ID="DataRepeater" runat="server" >
+       
+        <ItemTemplate>
+          <br />
+            <br />
+            <asp:Label ID="Label12" runat="server" Text="Product " Font-Bold="True"><%# Convert.ToInt32(Eval("Enquiry_Id").ToString().Substring(7,2))+1 %></asp:Label>
+          <br />
+           
+               
+             <asp:Label ID="Label1" runat="server" Text="Product: "></asp:Label>
+           
+                 <asp:Label ID="Label5" runat="server" Text=""><%# Eval("Product_Name") %></asp:Label>
+            <br />
+     
+   <asp:Label ID="Label9" runat="server" Text="Quantity: "></asp:Label>  
+                 <asp:Label ID="Label6" runat="server" Text=""><%# Eval("Quantity") %></asp:Label>
+                     <br />
+  
+<asp:Label ID="Label11" runat="server" Text="Value: "></asp:Label>  
+                 <asp:Label ID="Label7" runat="server" Text=""><%# Eval("Value") %></asp:Label>
+                 
+            
+                
+        </ItemTemplate>
+        
+    </asp:Repeater>
+           <br />
+           <br />
+           <br />
+       <asp:Label ID="Label4" runat="server" Text="Status: "></asp:Label>    <asp:Label ID="status" runat="server" Text=""></asp:Label>
+  <br /><asp:Label ID="Label8" runat="server" Text="FollowUp: "></asp:Label><asp:Label ID="Followup" runat="server" Text=""></asp:Label>
+           <br />
+           <br />
+           <asp:Button ID="Button1" runat="server" Text="FollowUp" type="submit" OnClick="FollowUp_Click" />   <tb/>
+<asp:Button ID="Edit" runat="server" Text="Edit" type="submit"  />
+<tb /> 
+<asp:Button ID="OrderConvert" runat="server" Text="OrderConvert" type="submit"  />
+<tb />
+<asp:Button ID="EnquiryClosed" runat="server" Text="EnquiryClosed" type="submit" OnClick="EnquiryClosed_Click" />
+<tb />
+<asp:Button ID="Back" runat="server" Text="Back" type="submit" OnClick="Back_Click" />
+<br />
+</div>
+               
+</asp:Content>

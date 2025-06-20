@@ -1,0 +1,67 @@
+﻿body {
+    background: #F3E5F5;
+    overflow-x: hidden;
+}
+#Header {
+    height: 75px;
+    width: 100%;
+    background-color: mediumpurple;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: -8px;
+    padding-right: 16px;
+    margin-top: -8px;
+}
+/* Main Content Css Start Here*/
+#Logo-Title {
+    margin-left: 10px;
+    cursor: pointer;
+    text-decoration: none;
+    color: black;
+}
+
+.BLbuttons{
+    display:flex;
+}
+.HomeButton {
+    color: black;
+    padding: 14px 20px;
+    text-decoration: none;
+    display: block;
+    background-color: #f9f9f9;
+    box-shadow: none;
+    border: none;
+    text-align: center;
+    border-radius: 20px;
+    cursor: pointer;
+    margin-right: 10px;
+}
+    .HomeButton:hover {
+        transition: .3s;
+        background-color: #862e94;
+        transform: scale(1.03);
+    }
+.LoginButton {
+    color: black;
+    padding: 14px 20px;
+    text-decoration: none;
+    display: block;
+    background-color: #f9f9f9;
+    box-shadow: none;
+    border: none;
+    text-align: center;
+    border-radius: 20px;
+    cursor: pointer;
+    margin-right: 10px;
+}
+    .LoginButton:hover {
+        transition: .3s;
+        background-color: #862e94;
+        transform: scale(1.03);
+    }
+.content {
+    
+    
+}
+

@@ -1,0 +1,6 @@
+C:\Users\shrey\OneDrive\Desktop\home\home\bin\home.dll
+C:\Users\shrey\OneDrive\Desktop\home\home\bin\home.pdb
+C:\Users\shrey\OneDrive\Desktop\home\home\obj\Debug\home.dll
+C:\Users\shrey\OneDrive\Desktop\home\home\obj\Debug\home.pdb
+C:\Users\shrey\OneDrive\Desktop\home\home\obj\Debug\home.csproj.AssemblyReference.cache
+C:\Users\shrey\OneDrive\Desktop\home\home\obj\Debug\home.csproj.CoreCompileInputs.cache

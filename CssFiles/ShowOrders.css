@@ -1,0 +1,57 @@
+﻿.ShowOrderTableContent {
+    padding: 25px 26px;
+    display: flex;
+    flex-direction: column;
+}
+
+.showOrderTable {
+    width: 100%;
+    transition: 0.5s;
+    border-collapse: collapse;
+    
+    overflow-x: auto;
+}
+
+.showOrderTableContainer {
+    margin: 0px 5px;
+    margin-bottom: 35px;
+    border-radius: 11px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    height: 500px;
+    overflow-y: auto;
+    overflow-x: auto;
+}
+
+.showOrderTable thead th {
+    position: sticky;
+    top: 0;
+    overflow-x: auto;
+}
+
+.showOrderTable tbody {
+}
+
+.showOrderTable th, .showOrderTable td {
+    padding: 8px;
+    height: 40px;
+    text-align: left;
+}
+
+.showOrderTable th {
+    background-color: mediumpurple;
+    color: black;
+}
+
+.OrderId {
+    text-decoration: none;
+    color: black;
+}
+
+.showOrderTable tr:nth-child(even) {
+    background-color: #f4f6f8;
+}
+
+.showOrderTable tr:hover {
+    background-color: #9551a6;
+    cursor: pointer;
+}

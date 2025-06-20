@@ -1,0 +1,522 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jhasa\\OneDrive\\Desktop\\SalesSahayak\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{901C8FF4-7915-4F05-B103-074799A783DD}|SalesSahayak\\SalesSahayak.csproj|c:\\users\\jhasa\\onedrive\\desktop\\salessahayak\\salessahayak\\components\\loginpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{901C8FF4-7915-4F05-B103-074799A783DD}|SalesSahayak\\SalesSahayak.csproj|solutionrelative:salessahayak\\components\\loginpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{901C8FF4-7915-4F05-B103-074799A783DD}|SalesSahayak\\SalesSahayak.csproj|c:\\users\\jhasa\\onedrive\\desktop\\salessahayak\\salessahayak\\components\\addenquiry.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{901C8FF4-7915-4F05-B103-074799A783DD}|SalesSahayak\\SalesSahayak.csproj|solutionrelative:salessahayak\\components\\addenquiry.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{901C8FF4-7915-4F05-B103-074799A783DD}|SalesSahayak\\SalesSahayak.csproj|C:\\Users\\jhasa\\OneDrive\\Desktop\\SalesSahayak\\salessahayak\\components\\addenquiry.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{901C8FF4-7915-4F05-B103-074799A783DD}|SalesSahayak\\SalesSahayak.csproj|solutionrelative:salessahayak\\components\\addenquiry.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{901C8FF4-7915-4F05-B103-074799A783DD}|SalesSahayak\\SalesSahayak.csproj|C:\\Users\\jhasa\\OneDrive\\Desktop\\SalesSahayak\\salessahayak\\cssfiles\\addenquiry.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{901C8FF4-7915-4F05-B103-074799A783DD}|SalesSahayak\\SalesSahayak.csproj|solutionrelative:salessahayak\\cssfiles\\addenquiry.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{901C8FF4-7915-4F05-B103-074799A783DD}|SalesSahayak\\SalesSahayak.csproj|C:\\Users\\jhasa\\OneDrive\\Desktop\\SalesSahayak\\salessahayak\\components\\addcustomer.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{901C8FF4-7915-4F05-B103-074799A783DD}|SalesSahayak\\SalesSahayak.csproj|solutionrelative:salessahayak\\components\\addcustomer.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{901C8FF4-7915-4F05-B103-074799A783DD}|SalesSahayak\\SalesSahayak.csproj|C:\\Users\\jhasa\\OneDrive\\Desktop\\SalesSahayak\\salessahayak\\components\\loginpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{901C8FF4-7915-4F05-B103-074799A783DD}|SalesSahayak\\SalesSahayak.csproj|solutionrelative:salessahayak\\components\\loginpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{901C8FF4-7915-4F05-B103-074799A783DD}|SalesSahayak\\SalesSahayak.csproj|C:\\Users\\jhasa\\OneDrive\\Desktop\\SalesSahayak\\salessahayak\\cssfiles\\showenquirydetails.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{901C8FF4-7915-4F05-B103-074799A783DD}|SalesSahayak\\SalesSahayak.csproj|solutionrelative:salessahayak\\cssfiles\\showenquirydetails.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{901C8FF4-7915-4F05-B103-074799A783DD}|SalesSahayak\\SalesSahayak.csproj|C:\\Users\\jhasa\\OneDrive\\Desktop\\SalesSahayak\\salessahayak\\components\\showenquirydetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{901C8FF4-7915-4F05-B103-074799A783DD}|SalesSahayak\\SalesSahayak.csproj|solutionrelative:salessahayak\\components\\showenquirydetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{901C8FF4-7915-4F05-B103-074799A783DD}|SalesSahayak\\SalesSahayak.csproj|C:\\Users\\jhasa\\OneDrive\\Desktop\\SalesSahayak\\salessahayak\\components\\addcustomer.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{901C8FF4-7915-4F05-B103-074799A783DD}|SalesSahayak\\SalesSahayak.csproj|solutionrelative:salessahayak\\components\\addcustomer.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{901C8FF4-7915-4F05-B103-074799A783DD}|SalesSahayak\\SalesSahayak.csproj|C:\\Users\\jhasa\\OneDrive\\Desktop\\SalesSahayak\\salessahayak\\components\\profile.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{901C8FF4-7915-4F05-B103-074799A783DD}|SalesSahayak\\SalesSahayak.csproj|solutionrelative:salessahayak\\components\\profile.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{901C8FF4-7915-4F05-B103-074799A783DD}|SalesSahayak\\SalesSahayak.csproj|C:\\Users\\jhasa\\OneDrive\\Desktop\\SalesSahayak\\salessahayak\\cssfiles\\profile.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{901C8FF4-7915-4F05-B103-074799A783DD}|SalesSahayak\\SalesSahayak.csproj|solutionrelative:salessahayak\\cssfiles\\profile.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{901C8FF4-7915-4F05-B103-074799A783DD}|SalesSahayak\\SalesSahayak.csproj|C:\\Users\\jhasa\\OneDrive\\Desktop\\SalesSahayak\\salessahayak\\cssfiles\\addcustomer.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{901C8FF4-7915-4F05-B103-074799A783DD}|SalesSahayak\\SalesSahayak.csproj|solutionrelative:salessahayak\\cssfiles\\addcustomer.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{901C8FF4-7915-4F05-B103-074799A783DD}|SalesSahayak\\SalesSahayak.csproj|C:\\Users\\jhasa\\OneDrive\\Desktop\\SalesSahayak\\salessahayak\\components\\showcustomers.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{901C8FF4-7915-4F05-B103-074799A783DD}|SalesSahayak\\SalesSahayak.csproj|solutionrelative:salessahayak\\components\\showcustomers.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{901C8FF4-7915-4F05-B103-074799A783DD}|SalesSahayak\\SalesSahayak.csproj|C:\\Users\\jhasa\\OneDrive\\Desktop\\SalesSahayak\\salessahayak\\header.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{901C8FF4-7915-4F05-B103-074799A783DD}|SalesSahayak\\SalesSahayak.csproj|solutionrelative:salessahayak\\header.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{901C8FF4-7915-4F05-B103-074799A783DD}|SalesSahayak\\SalesSahayak.csproj|C:\\Users\\jhasa\\OneDrive\\Desktop\\SalesSahayak\\salessahayak\\components\\showorders.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{901C8FF4-7915-4F05-B103-074799A783DD}|SalesSahayak\\SalesSahayak.csproj|solutionrelative:salessahayak\\components\\showorders.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{901C8FF4-7915-4F05-B103-074799A783DD}|SalesSahayak\\SalesSahayak.csproj|C:\\Users\\jhasa\\OneDrive\\Desktop\\SalesSahayak\\salessahayak\\components\\showorders.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{901C8FF4-7915-4F05-B103-074799A783DD}|SalesSahayak\\SalesSahayak.csproj|solutionrelative:salessahayak\\components\\showorders.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{901C8FF4-7915-4F05-B103-074799A783DD}|SalesSahayak\\SalesSahayak.csproj|C:\\Users\\jhasa\\OneDrive\\Desktop\\SalesSahayak\\salessahayak\\components\\showenquirydetails.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{901C8FF4-7915-4F05-B103-074799A783DD}|SalesSahayak\\SalesSahayak.csproj|solutionrelative:salessahayak\\components\\showenquirydetails.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{901C8FF4-7915-4F05-B103-074799A783DD}|SalesSahayak\\SalesSahayak.csproj|C:\\Users\\jhasa\\OneDrive\\Desktop\\SalesSahayak\\salessahayak\\components\\showenquiry.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{901C8FF4-7915-4F05-B103-074799A783DD}|SalesSahayak\\SalesSahayak.csproj|solutionrelative:salessahayak\\components\\showenquiry.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{901C8FF4-7915-4F05-B103-074799A783DD}|SalesSahayak\\SalesSahayak.csproj|C:\\Users\\jhasa\\OneDrive\\Desktop\\SalesSahayak\\salessahayak\\components\\showenquiry.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{901C8FF4-7915-4F05-B103-074799A783DD}|SalesSahayak\\SalesSahayak.csproj|solutionrelative:salessahayak\\components\\showenquiry.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{901C8FF4-7915-4F05-B103-074799A783DD}|SalesSahayak\\SalesSahayak.csproj|C:\\Users\\jhasa\\OneDrive\\Desktop\\SalesSahayak\\salessahayak\\cssfiles\\showenquiry.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{901C8FF4-7915-4F05-B103-074799A783DD}|SalesSahayak\\SalesSahayak.csproj|solutionrelative:salessahayak\\cssfiles\\showenquiry.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{901C8FF4-7915-4F05-B103-074799A783DD}|SalesSahayak\\SalesSahayak.csproj|C:\\Users\\jhasa\\OneDrive\\Desktop\\SalesSahayak\\salessahayak\\header.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{901C8FF4-7915-4F05-B103-074799A783DD}|SalesSahayak\\SalesSahayak.csproj|solutionrelative:salessahayak\\header.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{901C8FF4-7915-4F05-B103-074799A783DD}|SalesSahayak\\SalesSahayak.csproj|C:\\Users\\jhasa\\OneDrive\\Desktop\\SalesSahayak\\salessahayak\\components\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{901C8FF4-7915-4F05-B103-074799A783DD}|SalesSahayak\\SalesSahayak.csproj|solutionrelative:salessahayak\\components\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{901C8FF4-7915-4F05-B103-074799A783DD}|SalesSahayak\\SalesSahayak.csproj|C:\\Users\\jhasa\\OneDrive\\Desktop\\SalesSahayak\\salessahayak\\cssfiles\\home.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{901C8FF4-7915-4F05-B103-074799A783DD}|SalesSahayak\\SalesSahayak.csproj|solutionrelative:salessahayak\\cssfiles\\home.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{901C8FF4-7915-4F05-B103-074799A783DD}|SalesSahayak\\SalesSahayak.csproj|C:\\Users\\jhasa\\OneDrive\\Desktop\\SalesSahayak\\salessahayak\\components\\home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{901C8FF4-7915-4F05-B103-074799A783DD}|SalesSahayak\\SalesSahayak.csproj|solutionrelative:salessahayak\\components\\home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{901C8FF4-7915-4F05-B103-074799A783DD}|SalesSahayak\\SalesSahayak.csproj|C:\\Users\\jhasa\\OneDrive\\Desktop\\SalesSahayak\\salessahayak\\components\\home.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{901C8FF4-7915-4F05-B103-074799A783DD}|SalesSahayak\\SalesSahayak.csproj|solutionrelative:salessahayak\\components\\home.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{901C8FF4-7915-4F05-B103-074799A783DD}|SalesSahayak\\SalesSahayak.csproj|C:\\Users\\jhasa\\OneDrive\\Desktop\\SalesSahayak\\salessahayak\\cssfiles\\header.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{901C8FF4-7915-4F05-B103-074799A783DD}|SalesSahayak\\SalesSahayak.csproj|solutionrelative:salessahayak\\cssfiles\\header.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{901C8FF4-7915-4F05-B103-074799A783DD}|SalesSahayak\\SalesSahayak.csproj|C:\\Users\\jhasa\\OneDrive\\Desktop\\SalesSahayak\\salessahayak\\cssfiles\\loginpage.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{901C8FF4-7915-4F05-B103-074799A783DD}|SalesSahayak\\SalesSahayak.csproj|solutionrelative:salessahayak\\cssfiles\\loginpage.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{901C8FF4-7915-4F05-B103-074799A783DD}|SalesSahayak\\SalesSahayak.csproj|C:\\Users\\jhasa\\OneDrive\\Desktop\\SalesSahayak\\salessahayak\\cssfiles\\headerflogin.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{901C8FF4-7915-4F05-B103-074799A783DD}|SalesSahayak\\SalesSahayak.csproj|solutionrelative:salessahayak\\cssfiles\\headerflogin.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{901C8FF4-7915-4F05-B103-074799A783DD}|SalesSahayak\\SalesSahayak.csproj|C:\\Users\\jhasa\\OneDrive\\Desktop\\SalesSahayak\\salessahayak\\headerflogin.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{901C8FF4-7915-4F05-B103-074799A783DD}|SalesSahayak\\SalesSahayak.csproj|solutionrelative:salessahayak\\headerflogin.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginPage.aspx",
+              "DocumentMoniker": "C:\\Users\\jhasa\\OneDrive\\Desktop\\SalesSahayak\\SalesSahayak\\Components\\LoginPage.aspx",
+              "RelativeDocumentMoniker": "SalesSahayak\\Components\\LoginPage.aspx",
+              "ToolTip": "C:\\Users\\jhasa\\OneDrive\\Desktop\\SalesSahayak\\SalesSahayak\\Components\\LoginPage.aspx",
+              "RelativeToolTip": "SalesSahayak\\Components\\LoginPage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-20T19:02:49.281Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AddCustomer.css",
+              "DocumentMoniker": "C:\\Users\\jhasa\\OneDrive\\Desktop\\SalesSahayak\\SalesSahayak\\CssFiles\\AddCustomer.css",
+              "RelativeDocumentMoniker": "SalesSahayak\\CssFiles\\AddCustomer.css",
+              "ToolTip": "C:\\Users\\jhasa\\OneDrive\\Desktop\\SalesSahayak\\SalesSahayak\\CssFiles\\AddCustomer.css",
+              "RelativeToolTip": "SalesSahayak\\CssFiles\\AddCustomer.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-05T06:54:52.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Profile.css",
+              "DocumentMoniker": "C:\\Users\\jhasa\\OneDrive\\Desktop\\SalesSahayak\\SalesSahayak\\CssFiles\\Profile.css",
+              "RelativeDocumentMoniker": "SalesSahayak\\CssFiles\\Profile.css",
+              "ToolTip": "C:\\Users\\jhasa\\OneDrive\\Desktop\\SalesSahayak\\SalesSahayak\\CssFiles\\Profile.css",
+              "RelativeToolTip": "SalesSahayak\\CssFiles\\Profile.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-05T06:50:22.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Profile.aspx",
+              "DocumentMoniker": "C:\\Users\\jhasa\\OneDrive\\Desktop\\SalesSahayak\\SalesSahayak\\Components\\Profile.aspx",
+              "RelativeDocumentMoniker": "SalesSahayak\\Components\\Profile.aspx",
+              "ToolTip": "C:\\Users\\jhasa\\OneDrive\\Desktop\\SalesSahayak\\SalesSahayak\\Components\\Profile.aspx",
+              "RelativeToolTip": "SalesSahayak\\Components\\Profile.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-05T06:49:57.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ShowOrders.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\jhasa\\OneDrive\\Desktop\\SalesSahayak\\SalesSahayak\\Components\\ShowOrders.aspx.cs",
+              "RelativeDocumentMoniker": "SalesSahayak\\Components\\ShowOrders.aspx.cs",
+              "ToolTip": "C:\\Users\\jhasa\\OneDrive\\Desktop\\SalesSahayak\\SalesSahayak\\Components\\ShowOrders.aspx.cs",
+              "RelativeToolTip": "SalesSahayak\\Components\\ShowOrders.aspx.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwCkAAADJAQAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T03:04:36.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ShowOrders.aspx",
+              "DocumentMoniker": "C:\\Users\\jhasa\\OneDrive\\Desktop\\SalesSahayak\\SalesSahayak\\Components\\ShowOrders.aspx",
+              "RelativeDocumentMoniker": "SalesSahayak\\Components\\ShowOrders.aspx",
+              "ToolTip": "C:\\Users\\jhasa\\OneDrive\\Desktop\\SalesSahayak\\SalesSahayak\\Components\\ShowOrders.aspx",
+              "RelativeToolTip": "SalesSahayak\\Components\\ShowOrders.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-05T03:04:33.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddCustomer.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\jhasa\\OneDrive\\Desktop\\SalesSahayak\\SalesSahayak\\Components\\AddCustomer.aspx.cs",
+              "RelativeDocumentMoniker": "SalesSahayak\\Components\\AddCustomer.aspx.cs",
+              "ToolTip": "C:\\Users\\jhasa\\OneDrive\\Desktop\\SalesSahayak\\SalesSahayak\\Components\\AddCustomer.aspx.cs",
+              "RelativeToolTip": "SalesSahayak\\Components\\AddCustomer.aspx.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAlwEwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T02:27:03.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddCustomer.aspx",
+              "DocumentMoniker": "C:\\Users\\jhasa\\OneDrive\\Desktop\\SalesSahayak\\SalesSahayak\\Components\\AddCustomer.aspx",
+              "RelativeDocumentMoniker": "SalesSahayak\\Components\\AddCustomer.aspx",
+              "ToolTip": "C:\\Users\\jhasa\\OneDrive\\Desktop\\SalesSahayak\\SalesSahayak\\Components\\AddCustomer.aspx",
+              "RelativeToolTip": "SalesSahayak\\Components\\AddCustomer.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-05T02:27:32.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ShowEnquiryDetails.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\jhasa\\OneDrive\\Desktop\\SalesSahayak\\SalesSahayak\\Components\\ShowEnquiryDetails.aspx.cs",
+              "RelativeDocumentMoniker": "SalesSahayak\\Components\\ShowEnquiryDetails.aspx.cs",
+              "ToolTip": "C:\\Users\\jhasa\\OneDrive\\Desktop\\SalesSahayak\\SalesSahayak\\Components\\ShowEnquiryDetails.aspx.cs",
+              "RelativeToolTip": "SalesSahayak\\Components\\ShowEnquiryDetails.aspx.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwB0AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T19:16:55.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ShowEnquiryDetails.css",
+              "DocumentMoniker": "C:\\Users\\jhasa\\OneDrive\\Desktop\\SalesSahayak\\SalesSahayak\\CssFiles\\ShowEnquiryDetails.css",
+              "RelativeDocumentMoniker": "SalesSahayak\\CssFiles\\ShowEnquiryDetails.css",
+              "ToolTip": "C:\\Users\\jhasa\\OneDrive\\Desktop\\SalesSahayak\\SalesSahayak\\CssFiles\\ShowEnquiryDetails.css",
+              "RelativeToolTip": "SalesSahayak\\CssFiles\\ShowEnquiryDetails.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-04T18:59:34.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ShowEnquiryDetails.aspx",
+              "DocumentMoniker": "C:\\Users\\jhasa\\OneDrive\\Desktop\\SalesSahayak\\SalesSahayak\\Components\\ShowEnquiryDetails.aspx",
+              "RelativeDocumentMoniker": "SalesSahayak\\Components\\ShowEnquiryDetails.aspx",
+              "ToolTip": "C:\\Users\\jhasa\\OneDrive\\Desktop\\SalesSahayak\\SalesSahayak\\Components\\ShowEnquiryDetails.aspx",
+              "RelativeToolTip": "SalesSahayak\\Components\\ShowEnquiryDetails.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-04T18:35:02.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ShowCustomers.aspx",
+              "DocumentMoniker": "C:\\Users\\jhasa\\OneDrive\\Desktop\\SalesSahayak\\SalesSahayak\\Components\\ShowCustomers.aspx",
+              "RelativeDocumentMoniker": "SalesSahayak\\Components\\ShowCustomers.aspx",
+              "ToolTip": "C:\\Users\\jhasa\\OneDrive\\Desktop\\SalesSahayak\\SalesSahayak\\Components\\ShowCustomers.aspx",
+              "RelativeToolTip": "SalesSahayak\\Components\\ShowCustomers.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-04T18:02:29.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Home.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\jhasa\\OneDrive\\Desktop\\SalesSahayak\\SalesSahayak\\Components\\Home.aspx.designer.cs",
+              "RelativeDocumentMoniker": "SalesSahayak\\Components\\Home.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\jhasa\\OneDrive\\Desktop\\SalesSahayak\\SalesSahayak\\Components\\Home.aspx.designer.cs",
+              "RelativeToolTip": "SalesSahayak\\Components\\Home.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwKEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T05:49:23.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Home.aspx",
+              "DocumentMoniker": "C:\\Users\\jhasa\\OneDrive\\Desktop\\SalesSahayak\\SalesSahayak\\Components\\Home.aspx",
+              "RelativeDocumentMoniker": "SalesSahayak\\Components\\Home.aspx",
+              "ToolTip": "C:\\Users\\jhasa\\OneDrive\\Desktop\\SalesSahayak\\SalesSahayak\\Components\\Home.aspx",
+              "RelativeToolTip": "SalesSahayak\\Components\\Home.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-21T15:36:33.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Home.css",
+              "DocumentMoniker": "C:\\Users\\jhasa\\OneDrive\\Desktop\\SalesSahayak\\SalesSahayak\\CssFiles\\Home.css",
+              "RelativeDocumentMoniker": "SalesSahayak\\CssFiles\\Home.css",
+              "ToolTip": "C:\\Users\\jhasa\\OneDrive\\Desktop\\SalesSahayak\\SalesSahayak\\CssFiles\\Home.css",
+              "RelativeToolTip": "SalesSahayak\\CssFiles\\Home.css",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAQwH4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-29T05:47:44.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "HeaderFLogin.css",
+              "DocumentMoniker": "C:\\Users\\jhasa\\OneDrive\\Desktop\\SalesSahayak\\SalesSahayak\\CssFiles\\HeaderFLogin.css",
+              "RelativeDocumentMoniker": "SalesSahayak\\CssFiles\\HeaderFLogin.css",
+              "ToolTip": "C:\\Users\\jhasa\\OneDrive\\Desktop\\SalesSahayak\\SalesSahayak\\CssFiles\\HeaderFLogin.css",
+              "RelativeToolTip": "SalesSahayak\\CssFiles\\HeaderFLogin.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBZwAQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-23T07:58:01.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginPage.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\jhasa\\OneDrive\\Desktop\\SalesSahayak\\SalesSahayak\\Components\\LoginPage.aspx.cs",
+              "RelativeDocumentMoniker": "SalesSahayak\\Components\\LoginPage.aspx.cs",
+              "ToolTip": "C:\\Users\\jhasa\\OneDrive\\Desktop\\SalesSahayak\\SalesSahayak\\Components\\LoginPage.aspx.cs",
+              "RelativeToolTip": "SalesSahayak\\Components\\LoginPage.aspx.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAADwvysAAACPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T07:30:39.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "LoginPage.css",
+              "DocumentMoniker": "C:\\Users\\jhasa\\OneDrive\\Desktop\\SalesSahayak\\SalesSahayak\\CssFiles\\LoginPage.css",
+              "RelativeDocumentMoniker": "SalesSahayak\\CssFiles\\LoginPage.css",
+              "ToolTip": "C:\\Users\\jhasa\\OneDrive\\Desktop\\SalesSahayak\\SalesSahayak\\CssFiles\\LoginPage.css",
+              "RelativeToolTip": "SalesSahayak\\CssFiles\\LoginPage.css",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAswHIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-23T07:23:12.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ShowEnquiry.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\jhasa\\OneDrive\\Desktop\\SalesSahayak\\SalesSahayak\\Components\\ShowEnquiry.aspx.cs",
+              "RelativeDocumentMoniker": "SalesSahayak\\Components\\ShowEnquiry.aspx.cs",
+              "ToolTip": "C:\\Users\\jhasa\\OneDrive\\Desktop\\SalesSahayak\\SalesSahayak\\Components\\ShowEnquiry.aspx.cs",
+              "RelativeToolTip": "SalesSahayak\\Components\\ShowEnquiry.aspx.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAQwDYAAAB1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T05:54:12.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ShowEnquiry.css",
+              "DocumentMoniker": "C:\\Users\\jhasa\\OneDrive\\Desktop\\SalesSahayak\\SalesSahayak\\CssFiles\\ShowEnquiry.css",
+              "RelativeDocumentMoniker": "SalesSahayak\\CssFiles\\ShowEnquiry.css",
+              "ToolTip": "C:\\Users\\jhasa\\OneDrive\\Desktop\\SalesSahayak\\SalesSahayak\\CssFiles\\ShowEnquiry.css",
+              "RelativeToolTip": "SalesSahayak\\CssFiles\\ShowEnquiry.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-23T05:28:11.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ShowEnquiry.aspx",
+              "DocumentMoniker": "C:\\Users\\jhasa\\OneDrive\\Desktop\\SalesSahayak\\SalesSahayak\\Components\\ShowEnquiry.aspx",
+              "RelativeDocumentMoniker": "SalesSahayak\\Components\\ShowEnquiry.aspx",
+              "ToolTip": "C:\\Users\\jhasa\\OneDrive\\Desktop\\SalesSahayak\\SalesSahayak\\Components\\ShowEnquiry.aspx",
+              "RelativeToolTip": "SalesSahayak\\Components\\ShowEnquiry.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-23T04:59:48.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Header.Master.cs",
+              "DocumentMoniker": "C:\\Users\\jhasa\\OneDrive\\Desktop\\SalesSahayak\\SalesSahayak\\Header.Master.cs",
+              "RelativeDocumentMoniker": "SalesSahayak\\Header.Master.cs",
+              "ToolTip": "C:\\Users\\jhasa\\OneDrive\\Desktop\\SalesSahayak\\SalesSahayak\\Header.Master.cs",
+              "RelativeToolTip": "SalesSahayak\\Header.Master.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAiwEIAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T20:06:53.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Home.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\jhasa\\OneDrive\\Desktop\\SalesSahayak\\SalesSahayak\\Components\\Home.aspx.cs",
+              "RelativeDocumentMoniker": "SalesSahayak\\Components\\Home.aspx.cs",
+              "ToolTip": "C:\\Users\\jhasa\\OneDrive\\Desktop\\SalesSahayak\\SalesSahayak\\Components\\Home.aspx.cs",
+              "RelativeToolTip": "SalesSahayak\\Components\\Home.aspx.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAArwDwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T20:06:18.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "HeaderFLogin.Master",
+              "DocumentMoniker": "C:\\Users\\jhasa\\OneDrive\\Desktop\\SalesSahayak\\SalesSahayak\\HeaderFLogin.Master",
+              "RelativeDocumentMoniker": "SalesSahayak\\HeaderFLogin.Master",
+              "ToolTip": "C:\\Users\\jhasa\\OneDrive\\Desktop\\SalesSahayak\\SalesSahayak\\HeaderFLogin.Master",
+              "RelativeToolTip": "SalesSahayak\\HeaderFLogin.Master",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-21T15:42:17.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Header.Master",
+              "DocumentMoniker": "C:\\Users\\jhasa\\OneDrive\\Desktop\\SalesSahayak\\SalesSahayak\\Header.Master",
+              "RelativeDocumentMoniker": "SalesSahayak\\Header.Master",
+              "ToolTip": "C:\\Users\\jhasa\\OneDrive\\Desktop\\SalesSahayak\\SalesSahayak\\Header.Master",
+              "RelativeToolTip": "SalesSahayak\\Header.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-20T19:45:46.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Header.css",
+              "DocumentMoniker": "C:\\Users\\jhasa\\OneDrive\\Desktop\\SalesSahayak\\SalesSahayak\\CssFiles\\Header.css",
+              "RelativeDocumentMoniker": "SalesSahayak\\CssFiles\\Header.css",
+              "ToolTip": "C:\\Users\\jhasa\\OneDrive\\Desktop\\SalesSahayak\\SalesSahayak\\CssFiles\\Header.css",
+              "RelativeToolTip": "SalesSahayak\\CssFiles\\Header.css",
+              "ViewState": "AgIAAK4AAAAAAAAAACBjwDcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-20T19:19:51.546Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "403220ec-e849-48f7-ba7e-7688759695eb",
+        "Display": 0,
+        "X": 380,
+        "Y": 35,
+        "Width": 843,
+        "Height": 409,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddEnquiry.aspx",
+              "DocumentMoniker": "C:\\Users\\jhasa\\OneDrive\\Desktop\\SalesSahayak\\SalesSahayak\\Components\\AddEnquiry.aspx",
+              "RelativeDocumentMoniker": "SalesSahayak\\Components\\AddEnquiry.aspx",
+              "ToolTip": "C:\\Users\\jhasa\\OneDrive\\Desktop\\SalesSahayak\\SalesSahayak\\Components\\AddEnquiry.aspx",
+              "RelativeToolTip": "SalesSahayak\\Components\\AddEnquiry.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-05T00:24:06.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddEnquiry.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\jhasa\\OneDrive\\Desktop\\SalesSahayak\\SalesSahayak\\Components\\AddEnquiry.aspx.cs",
+              "RelativeDocumentMoniker": "SalesSahayak\\Components\\AddEnquiry.aspx.cs",
+              "ToolTip": "C:\\Users\\jhasa\\OneDrive\\Desktop\\SalesSahayak\\SalesSahayak\\Components\\AddEnquiry.aspx.cs",
+              "RelativeToolTip": "SalesSahayak\\Components\\AddEnquiry.aspx.cs",
+              "ViewState": "AgIAAC4BAAAAAAAAAAAAAE4BAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T00:25:41.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddEnquiry.css",
+              "DocumentMoniker": "C:\\Users\\jhasa\\OneDrive\\Desktop\\SalesSahayak\\SalesSahayak\\CssFiles\\AddEnquiry.css",
+              "RelativeDocumentMoniker": "SalesSahayak\\CssFiles\\AddEnquiry.css",
+              "ToolTip": "C:\\Users\\jhasa\\OneDrive\\Desktop\\SalesSahayak\\SalesSahayak\\CssFiles\\AddEnquiry.css",
+              "RelativeToolTip": "SalesSahayak\\CssFiles\\AddEnquiry.css",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAowGkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-06T15:04:10.677Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

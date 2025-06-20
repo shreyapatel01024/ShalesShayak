@@ -1,0 +1,33 @@
+﻿* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'poppins',sans-serif;
+}
+.box, .input-box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: #fff;
+    padding: 24px;
+    gap:15px;
+    border-radius:10px;
+}
+.box1, .box2, .box3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: purple;
+    padding: 25px;
+    gap: 30px;
+    border-radius: 10px;
+    margin: 15px 0;
+}
+.box1{
+    width:600px;
+}
+.box2{
+    width:500px;
+}
+

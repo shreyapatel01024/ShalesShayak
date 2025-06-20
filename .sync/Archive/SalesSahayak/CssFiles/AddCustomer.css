@@ -1,0 +1,85 @@
+﻿
+
+.AddCustomerContent {
+    display: flex;
+    flex-direction: column;
+    padding: 25px 70px;
+       
+}
+
+.AddCustomerContainer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin: 0 100px;
+    width: auto;
+    background: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    padding: 25px;
+    bottom: 40px;
+}
+
+.AllFields {
+
+    width:100%;
+    
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    flex-wrap: wrap;
+}
+
+.AllFields {
+    flex: 1 1 250px;
+}
+
+
+
+.inputAddCustomer {
+    margin: 15px 20px;
+}
+
+.inputAddCustomer span {
+    display: block;
+    margin-bottom: 10px;
+}
+
+.inputAddCustomer .text {
+    width: 100%;
+    padding: 10px 15px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    font-size: 15px;
+}
+
+
+
+.inputAddCustomer {
+    margin-top: 5px;
+    
+}
+
+
+
+.AddCustomerbtn {
+    transition: .3s;
+    margin: 8px;
+    width: 120px;
+    height: 45px;
+    background-color: mediumpurple;
+    border: none;
+    outline: none;
+    border-radius: 40px;
+    box-shadow: 0 0 10px rgba(0,0,0,.1);
+    cursor: pointer;
+    font-size: 14px;
+    color: black;
+    font-weight: 500;
+}
+
+    .AddCustomerbtn:hover {
+        background-color: #862e94;
+        transform: scale(1.03);
+    }

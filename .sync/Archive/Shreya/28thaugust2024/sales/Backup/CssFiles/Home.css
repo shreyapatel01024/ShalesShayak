@@ -1,0 +1,228 @@
+﻿/*For All Content Which Load in center*/
+.content {
+    min-height: 100vh;
+}
+
+/*For body all over website*/
+body{
+   overflow-x:hidden;
+}
+
+.Containers {
+    display: flex;
+    justify-content: space-around;
+   
+}
+.EnquiryContainer {
+    width: fit-content;
+    padding-left: 60px;
+    padding-right: 60px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    align-items: center;
+    margin-bottom: 40px;
+    transition: 0.5s;
+}
+.Enquirytxt {
+    font: bold;
+    font-size: 20px;
+    padding-left: 80px;
+    padding-right: 80px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.EnquiryContainer:hover {
+    cursor: pointer;
+    background-color: whitesmoke;
+    
+    transform: scale(1.05)
+}
+
+.OrderContainer {
+    width: fit-content;
+    padding-left: 60px;
+    padding-right: 60px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    align-items: center;
+    margin-bottom: 40px;
+    transition: 0.5s;
+}
+
+.Ordertxt {
+    
+    font-size:20px;
+    padding-left: 90px;
+    padding-right: 90px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.OrderContainer:hover {
+    cursor: pointer;
+    background-color: whitesmoke;
+    
+    transform: scale(1.05)
+}
+.CompletedOrderContainer {
+    width: fit-content;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    align-items: center;
+    margin-bottom: 40px;
+     transition: 0.5s;
+}
+
+.CompletedOrdertxt {
+
+    font-size: 20px;
+    margin-right:5px;
+    padding-left: 60px;
+    padding-right: 60px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.CompletedOrderContainer:hover {
+    cursor: pointer;
+    background-color: whitesmoke;
+   
+    transform: scale(1.05);
+}
+.Containers a{
+    text-decoration:none;
+    color:black;
+    }
+
+
+
+
+@media (max-width:599px) {
+   .Containers{
+       display:flex;
+       flex-direction:column;
+       align-items:center;
+       
+        
+   }
+   .TotalEnquirytxt{
+       margin-left:20px;
+   }
+   .TotalOrdertxt{
+       margin-left:20px;
+   }
+    .Enquirytxt {
+        font-size: 20px;
+        margin-right: 5px;
+        padding-left: 0px;
+        padding-right: 40px;
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+
+    .EnquiryContainer {
+        padding-left: 65px;
+        padding-right: 65px;
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+
+    .OrderContainer {
+        padding-left: 75px;
+        padding-right: 75px;
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+
+    .Ordertxt {
+        font-size: 20px;
+        margin-right: 5px;
+        padding-left: 0px;
+        padding-right: 40px;
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+
+    .CompletedOrdertxt {
+        font-size: 20px;
+        margin-right: 5px;
+        padding-left: 0px;
+        padding-right: 40px;
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+
+    .CompletedOrderContainer {
+        padding-left: 40px;
+        padding-right: 40px;
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+   
+   
+}
+
+@media (min-width:600px) and (max-width:926px) {
+    .Enquirytxt {
+        font-size: 15px;
+        margin-right: 5px;
+        padding-left: 40px;
+        padding-right: 40px;
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+
+    .EnquiryContainer {
+        padding-left: 20px;
+        padding-right: 20px;
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+
+    .OrderContainer {
+        padding-left: 30px;
+        padding-right: 30px;
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+
+    .Ordertxt {
+        font-size: 15px;
+        margin-right: 5px;
+        padding-left: 40px;
+        padding-right: 40px;
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+
+    .CompletedOrdertxt {
+        font-size: 15px;
+        margin-right: 0;
+        padding-left: 40px;
+        padding-right: 40px;
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+
+    .CompletedOrderContainer {
+        padding-left: 11px;
+        padding-right: 11px;
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+}
+
+@media (min-width:927px) and (max-width:1920px) {
+
+}

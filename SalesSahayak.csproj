@@ -1,0 +1,396 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{901C8FF4-7915-4F05-B103-074799A783DD}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SalesSahayak</RootNamespace>
+    <AssemblyName>SalesSahayak</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <UseIISExpress>false</UseIISExpress>
+    <Use64BitIISExpress />
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+    <UseGlobalApplicationHostFile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Web.DataVisualization" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Components\About.aspx" />
+    <Content Include="Components\AddCustomer.aspx" />
+    <Content Include="Components\AddEnquiry.aspx" />
+    <Content Include="Components\AddOrder.aspx" />
+    <Content Include="Components\AddProduct.aspx" />
+    <Content Include="Components\ContactUs.aspx" />
+    <Content Include="Components\ConvertToOrder.aspx" />
+    <Content Include="Components\CookiePreferences.aspx" />
+    <Content Include="Components\EnquiryEdit.aspx" />
+    <Content Include="Components\Home.aspx" />
+    <Content Include="Components\LoginPage.aspx" />
+    <Content Include="Components\OrderEdit.aspx" />
+    <Content Include="Components\Payment.aspx" />
+    <Content Include="Components\privacypolicy.aspx" />
+    <Content Include="Components\ProductEdit.aspx" />
+    <Content Include="Components\Profile.aspx" />
+    <Content Include="Components\ShowCompletedOrdersDetails.aspx" />
+    <Content Include="Components\ShowCompletedOrders.aspx" />
+    <Content Include="Components\ShowCustomers.aspx" />
+    <Content Include="Components\ShowEnquiry.aspx" />
+    <Content Include="Components\ShowEnquiryDetails.aspx" />
+    <Content Include="Components\ShowOrderDetails.aspx" />
+    <Content Include="Components\ShowOrders.aspx" />
+    <Content Include="Components\ShowPayments.aspx" />
+    <Content Include="Components\ShowProducts.aspx" />
+    <Content Include="Components\ShowProductsDetail.aspx" />
+    <Content Include="Components\Termsofservice.aspx" />
+    <Content Include="Components\Welcome.aspx" />
+    <Content Include="CssFiles\About.css" />
+    <Content Include="CssFiles\AddCustomer.css" />
+    <Content Include="CssFiles\AddEnquiry.css" />
+    <Content Include="CssFiles\AddOrder.css" />
+    <Content Include="CssFiles\AddProduct.css" />
+    <Content Include="CssFiles\contact1.css" />
+    <Content Include="CssFiles\ContactUs.css" />
+    <Content Include="CssFiles\ConvertToOrder.css" />
+    <Content Include="CssFiles\CookiePreferences.css" />
+    <Content Include="CssFiles\EnquiryEdit.css" />
+    <Content Include="CssFiles\Footer.css" />
+    <Content Include="CssFiles\Header.css" />
+    <Content Include="CssFiles\HeaderFLogin.css" />
+    <Content Include="CssFiles\Home.css" />
+    <Content Include="CssFiles\LoadingBar.css" />
+    <Content Include="CssFiles\OrderEdit.css" />
+    <Content Include="CssFiles\Payment.css" />
+    <Content Include="CssFiles\privacypolicy.css" />
+    <Content Include="CssFiles\ProductEdit.css" />
+    <Content Include="CssFiles\Profile.css" />
+    <Content Include="CssFiles\ShowCompletedOrders.css" />
+    <Content Include="CssFiles\ShowCompletedOrdersDetails.css" />
+    <Content Include="CssFiles\ShowCustomers.css" />
+    <Content Include="CssFiles\ShowEnquiry.css" />
+    <Content Include="CssFiles\ShowEnquiryDetails.css" />
+    <Content Include="CssFiles\ShowOrderDetails.css" />
+    <Content Include="CssFiles\ShowOrders.css" />
+    <Content Include="CssFiles\ShowPayments.css" />
+    <Content Include="CssFiles\ShowProducts.css" />
+    <Content Include="CssFiles\ShowProductsDetail.css" />
+    <Content Include="CssFiles\Termsofservice.css" />
+    <Content Include="App_Data\Database\SalesSahayakDatabase.accdb" />
+    <Content Include="CssFiles\Welcome.css" />
+    <Content Include="Images\DevImage.jpeg" />
+    <Content Include="Images\Favicon.jpg" />
+    <Content Include="Images\imp2.png" />
+    <Content Include="CssFiles\LoginPage.css" />
+    <Content Include="Images\profile.png" />
+    <Content Include="Images\projectimage.jpg" />
+    <Content Include="Images\SatyamImage.png" />
+    <Content Include="Images\Intro1.mp4" />
+    <Content Include="Images\ShreyaImage.jpg" />
+    <Content Include="Web.config" />
+    <Content Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Components\About.aspx.cs">
+      <DependentUpon>About.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Components\About.aspx.designer.cs">
+      <DependentUpon>About.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Components\AddCustomer.aspx.cs">
+      <DependentUpon>AddCustomer.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Components\AddCustomer.aspx.designer.cs">
+      <DependentUpon>AddCustomer.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Components\AddEnquiry.aspx.cs">
+      <DependentUpon>AddEnquiry.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Components\AddEnquiry.aspx.designer.cs">
+      <DependentUpon>AddEnquiry.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Components\AddOrder.aspx.cs">
+      <DependentUpon>AddOrder.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Components\AddOrder.aspx.designer.cs">
+      <DependentUpon>AddOrder.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Components\AddProduct.aspx.cs">
+      <DependentUpon>AddProduct.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Components\AddProduct.aspx.designer.cs">
+      <DependentUpon>AddProduct.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Components\ContactUs.aspx.cs">
+      <DependentUpon>ContactUs.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Components\ContactUs.aspx.designer.cs">
+      <DependentUpon>ContactUs.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Components\ConvertToOrder.aspx.cs">
+      <DependentUpon>ConvertToOrder.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Components\ConvertToOrder.aspx.designer.cs">
+      <DependentUpon>ConvertToOrder.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Components\CookiePreferences.aspx.cs">
+      <DependentUpon>CookiePreferences.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Components\CookiePreferences.aspx.designer.cs">
+      <DependentUpon>CookiePreferences.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Components\EnquiryEdit.aspx.cs">
+      <DependentUpon>EnquiryEdit.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Components\EnquiryEdit.aspx.designer.cs">
+      <DependentUpon>EnquiryEdit.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Components\Home.aspx.cs">
+      <DependentUpon>Home.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Components\Home.aspx.designer.cs">
+      <DependentUpon>Home.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Components\LoginPage.aspx.cs">
+      <DependentUpon>LoginPage.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Components\LoginPage.aspx.designer.cs">
+      <DependentUpon>LoginPage.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Components\OrderEdit.aspx.cs">
+      <DependentUpon>OrderEdit.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Components\OrderEdit.aspx.designer.cs">
+      <DependentUpon>OrderEdit.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Components\Payment.aspx.cs">
+      <DependentUpon>Payment.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Components\Payment.aspx.designer.cs">
+      <DependentUpon>Payment.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Components\privacypolicy.aspx.cs">
+      <DependentUpon>privacypolicy.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Components\privacypolicy.aspx.designer.cs">
+      <DependentUpon>privacypolicy.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Components\ProductEdit.aspx.cs">
+      <DependentUpon>ProductEdit.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Components\ProductEdit.aspx.designer.cs">
+      <DependentUpon>ProductEdit.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Components\Profile.aspx.cs">
+      <DependentUpon>Profile.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Components\Profile.aspx.designer.cs">
+      <DependentUpon>Profile.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Components\ShowCompletedOrdersDetails.aspx.cs">
+      <DependentUpon>ShowCompletedOrdersDetails.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Components\ShowCompletedOrdersDetails.aspx.designer.cs">
+      <DependentUpon>ShowCompletedOrdersDetails.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Components\ShowCompletedOrders.aspx.cs">
+      <DependentUpon>ShowCompletedOrders.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Components\ShowCompletedOrders.aspx.designer.cs">
+      <DependentUpon>ShowCompletedOrders.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Components\ShowCustomers.aspx.cs">
+      <DependentUpon>ShowCustomers.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Components\ShowCustomers.aspx.designer.cs">
+      <DependentUpon>ShowCustomers.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Components\ShowEnquiry.aspx.cs">
+      <DependentUpon>ShowEnquiry.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Components\ShowEnquiry.aspx.designer.cs">
+      <DependentUpon>ShowEnquiry.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Components\ShowEnquiryDetails.aspx.cs">
+      <DependentUpon>ShowEnquiryDetails.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Components\ShowEnquiryDetails.aspx.designer.cs">
+      <DependentUpon>ShowEnquiryDetails.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Components\ShowOrderDetails.aspx.cs">
+      <DependentUpon>ShowOrderDetails.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Components\ShowOrderDetails.aspx.designer.cs">
+      <DependentUpon>ShowOrderDetails.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Components\ShowOrders.aspx.cs">
+      <DependentUpon>ShowOrders.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Components\ShowOrders.aspx.designer.cs">
+      <DependentUpon>ShowOrders.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Components\ShowPayments.aspx.cs">
+      <DependentUpon>ShowPayments.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Components\ShowPayments.aspx.designer.cs">
+      <DependentUpon>ShowPayments.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Components\ShowProducts.aspx.cs">
+      <DependentUpon>ShowProducts.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Components\ShowProducts.aspx.designer.cs">
+      <DependentUpon>ShowProducts.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Components\ShowProductsDetail.aspx.cs">
+      <DependentUpon>ShowProductsDetail.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Components\ShowProductsDetail.aspx.designer.cs">
+      <DependentUpon>ShowProductsDetail.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Components\Termsofservice.aspx.cs">
+      <DependentUpon>Termsofservice.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Components\Termsofservice.aspx.designer.cs">
+      <DependentUpon>Termsofservice.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Components\Welcome.aspx.cs">
+      <DependentUpon>Welcome.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Components\Welcome.aspx.designer.cs">
+      <DependentUpon>Welcome.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Footer.master.cs">
+      <DependentUpon>Footer.master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Footer.master.designer.cs">
+      <DependentUpon>Footer.master</DependentUpon>
+    </Compile>
+    <Compile Include="Header.Master.cs">
+      <DependentUpon>Header.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Header.Master.designer.cs">
+      <DependentUpon>Header.Master</DependentUpon>
+    </Compile>
+    <Compile Include="HeaderFLogin.Master.cs">
+      <DependentUpon>HeaderFLogin.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="HeaderFLogin.Master.designer.cs">
+      <DependentUpon>HeaderFLogin.Master</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Header.Master" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="HeaderFLogin.Master" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Footer.master" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>False</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>52616</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>
+          </IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

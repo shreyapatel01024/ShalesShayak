@@ -1,0 +1,22 @@
+﻿body{
+    margin:0;
+}
+#Header {
+    position: fixed;
+    height: 75px;
+    width: 100%;
+    background-color: mediumpurple;
+    display: flex;
+    align-items: center;
+}
+.content {
+    display: flex;
+    justify-content: center;
+    padding: 0;
+    background-image: url('../Images/projectimage.jpg');
+    background-repeat:no-repeat;
+    min-height: 100vh;
+    align-items: center;
+    font-family: sans-serif;
+    
+}

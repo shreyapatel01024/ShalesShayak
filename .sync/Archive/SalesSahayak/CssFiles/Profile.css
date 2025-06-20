@@ -1,0 +1,62 @@
+﻿
+.whole {
+   display: flex;
+    flex-direction: column;
+    padding: 25px 70px;
+}
+
+.profile-box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin: 0 200px;
+    width: auto;
+    background: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    padding: 25px;
+    bottom: 40px;
+}
+
+.profile-input-box {
+    display: flex;
+    gap: 15px;
+    flex-wrap: wrap;
+}
+
+.profile-input-box, .box-img {
+    flex: 1 1 250px;
+}
+
+.box-img {
+    font-size: 20px;
+    color: #333;
+    text-transform: uppercase;
+    margin-bottom: 5px;
+    gap: 15px;
+}
+
+.box-img, .box-input {
+    margin: 15px 0;
+}
+
+.box-input {
+    margin-top: 5px;
+    row-gap: 10px;
+}
+
+    .box-input span {
+        display: block;
+        margin-bottom: 0px;
+    }
+
+.lbpro {
+    border-bottom: 1px solid #ccc;
+}
+
+.ProfileImg-pro {
+    border-radius: 5px;
+    height: 200px;
+    width: 200px;
+}

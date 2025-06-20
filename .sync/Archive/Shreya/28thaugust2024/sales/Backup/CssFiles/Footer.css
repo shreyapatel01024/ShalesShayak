@@ -1,0 +1,29 @@
+﻿
+.footer_1 {
+    width: 100%;
+    text-align: center;
+    background-color: #e0a1f6;
+    overflow: hidden;
+    padding: 2px;
+    margin-top: 5px;
+    margin-left: -8px;
+    padding-right: 16px;
+    position: sticky;
+    margin-bottom:-8px;
+    
+    
+    
+}
+    footer a {
+        color:azure;
+        text-decoration-line:underline;
+        text-align:center
+        
+     }
+.pull_right
+{
+    color:skyblue;
+
+}
+
+    

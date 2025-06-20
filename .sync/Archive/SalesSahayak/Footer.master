@@ -1,0 +1,32 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/Header.Master" AutoEventWireup="true" CodeBehind="Footer.master.cs" Inherits="SalesSahayak.Footer" %>
+<asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
+   
+</asp:Content>
+
+<asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
+        <div class="content">
+           <asp:ContentPlaceHolder ID="ContentPlaceHolder2" runat="server"></asp:ContentPlaceHolder>
+    </div>
+  
+            
+                 <footer>
+         <div class="footer_1">
+         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+         <a class ="#" id="backtotop" href="Home.aspx" style="color:deepskyblue;text-decoration-line:underline" runat="server">Back to top</a><br/>
+         <a class ="#" href="Termsofservice.aspx" target="_self">Term of Service</a>&nbsp;|&nbsp;
+         <a class ="#" href="ContactUs.aspx" target="_self">Contact</a>&nbsp;|&nbsp;
+         <a class ="#" href="CookiePreferences.aspx" target="_self">Cookie Preference</a>&nbsp;|&nbsp;
+      <!--   <a class ="#" href="enquiry.aspx" target="_self">Trust</a>&nbsp;|&nbsp;
+         <a class ="#" href="enquiry.aspx" target="_self">Legal</a>&nbsp;|&nbsp;
+             -->
+         <a class ="#" href="About.aspx" target="_self">About</a><br/>
+            <p>&copy Copyright 2024 Sales Sahayak, Inc. ALL right Reserved.Various trademarks held by their respective owners.
+                <a class ="#" href="privacypolicy.aspx" target="_self">Policy</a>.</p>
+         
+
+</div>
+
+
+        </footer>
+        
+</asp:Content>

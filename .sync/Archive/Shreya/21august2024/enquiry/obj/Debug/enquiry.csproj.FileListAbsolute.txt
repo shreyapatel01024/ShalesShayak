@@ -1,0 +1,6 @@
+C:\Users\shrey\OneDrive\Desktop\enquiry\enquiry\bin\enquiry.dll
+C:\Users\shrey\OneDrive\Desktop\enquiry\enquiry\bin\enquiry.pdb
+C:\Users\shrey\OneDrive\Desktop\enquiry\enquiry\obj\Debug\enquiry.csproj.AssemblyReference.cache
+C:\Users\shrey\OneDrive\Desktop\enquiry\enquiry\obj\Debug\enquiry.csproj.CoreCompileInputs.cache
+C:\Users\shrey\OneDrive\Desktop\enquiry\enquiry\obj\Debug\enquiry.dll
+C:\Users\shrey\OneDrive\Desktop\enquiry\enquiry\obj\Debug\enquiry.pdb

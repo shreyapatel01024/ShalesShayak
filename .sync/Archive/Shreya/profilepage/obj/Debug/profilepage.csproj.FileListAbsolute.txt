@@ -1,0 +1,6 @@
+C:\Users\shrey\OneDrive\Desktop\profilepage\profilepage\bin\profilepage.dll
+C:\Users\shrey\OneDrive\Desktop\profilepage\profilepage\bin\profilepage.pdb
+C:\Users\shrey\OneDrive\Desktop\profilepage\profilepage\obj\Debug\profilepage.csproj.AssemblyReference.cache
+C:\Users\shrey\OneDrive\Desktop\profilepage\profilepage\obj\Debug\profilepage.csproj.CoreCompileInputs.cache
+C:\Users\shrey\OneDrive\Desktop\profilepage\profilepage\obj\Debug\profilepage.dll
+C:\Users\shrey\OneDrive\Desktop\profilepage\profilepage\obj\Debug\profilepage.pdb

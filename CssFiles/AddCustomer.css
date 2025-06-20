@@ -1,0 +1,97 @@
+﻿/*.Amessagealert {
+    width: 100%;
+    position: fixed;
+    top: 0px;
+    z-index: 100;
+    padding: 0;
+    font-size: 15px;
+}
+    */
+.Error {
+    color: red;
+    margin-left: 470px;
+}
+
+.Success {
+    color: Green;
+    margin-left: 470px;
+}
+.AddCustomerContent {
+   
+}
+
+.AddCustomerContainer {
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+    align-items: center;
+    max-width: 700px;
+    margin: 20px auto;
+    margin-top: 30px;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.AllFields {
+
+    width:100%;
+    
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    flex-wrap: wrap;
+}
+
+.AllFields {
+    flex: 1 1 250px;
+}
+
+
+
+.inputAddCustomer {
+    margin: 15px 20px;
+}
+
+.inputAddCustomer span {
+    display: block;
+    margin-bottom: 10px;
+}
+
+.inputAddCustomer .text {
+    width: 100%;
+    padding: 10px 15px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    font-size: 15px;
+}
+
+
+
+.inputAddCustomer {
+    margin-top: 5px;
+    
+}
+
+
+
+.AddCustomerbtn {
+    transition: .3s;
+    margin: 8px;
+    width: 120px;
+    height: 45px;
+    background-color: mediumpurple;
+    border: none;
+    outline: none;
+    border-radius: 40px;
+    box-shadow: 0 0 10px rgba(0,0,0,.1);
+    cursor: pointer;
+    font-size: 14px;
+    color: black;
+    font-weight: 500;
+}
+
+    .AddCustomerbtn:hover {
+        background-color: #862e94;
+        transform: scale(1.03);
+    }
